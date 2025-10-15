@@ -9,28 +9,27 @@ The exercises were implemented in Jupyter Notebook format for clarity and struct
 
 ## Contents
 
-### Exercise 1-3: Searching and Sorting  
-- Linear and Binary Search on lists of numbers and tuples.  
-- Custom sorting using `key` functions.  
-- Randomized dataset generation using `random`.  
+### Exercises 1-4: Searching and Sorting
+- **Linear vs Binary Search:** Explore algorithmic differences in search efficiency.  
+- **Tuple-Based Search:** Sort and search tuples by their second element.  
+- **Distance-Based Search:** Locate 2D points by distance from origin using binary search.  
+- **Card Search:** Sort and search through a deck of cards using rank mappings.
 
-### Exercise 4: Customer Class  
-- Implementation of a class with attributes and methods.  
-- Randomized generation of shopping lists.  
-- Price calculation using dictionaries.  
+### Exercises 5-6: Object-Oriented Design
+- **Customer Class:** Simulate customers with random shopping lists and calculate total cost.  
+- **MovieTheater Class:** Model cinemas, track seat availability, and handle ticket sales.
 
-### Exercise 5-7: Classes and Algorithms  
-- Partitioning numeric intervals using uniform spacing.  
-- Simulation of dice rolls with dictionary mappings.  
-- String and list processing (word formation with given letters).  
+### Exercises 7-8: Mathematical and Combinatorial Logic
+- **Uniform Partition:** Build a `Partition` class to divide an interval `[a, b]` uniformly and find nearest points.  
+- **Dice Roll Dictionary:** Generate all dice roll combinations grouped by their sums (2–12).
 
-### Exercise 8-9: Dictionary and Search Applications  
-- Transformation of nested dictionaries (artworks by year).  
-- Sorting and searching elements using mappings and search functions.  
+### Exercises 9-11: Data Structures and Search Applications
+- **Word Builder:** Find the longest possible word from available letters.  
+- **Artworks by Year:** Transform a dictionary of artworks grouped by author and year.  
+- **Grade Sorting & Search:** Sort academic grades (A+–F) and locate a target grade index.
 
-### Exercise 10: Register Simulation (Supermarket Queue)  
-- Object-oriented simulation of supermarket registers.  
-- Dynamic handling of customers between queues using random events.  
-- Practical application of `min()` and `max()` functions with `key` arguments.
+### Exercises 12-13: Advanced Object-Oriented Simulation
+- **Triangle Class:** Validate triangle sides and compute area using Heron’s formula.  
+- **Register Simulation:** Model supermarket registers with dynamic customer queues and random events.
 
   
