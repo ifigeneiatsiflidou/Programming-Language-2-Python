@@ -1,4 +1,4 @@
-# Programming Language II — Final Exam Exercises
+# Programming Language II - Final Exam Exercises
 
 This repository contains a collection of final exam exercises for the **Programming Language II** course.  
 Each exercise focuses on core Python programming concepts such as **object-oriented design**, **data structures**, **searching and sorting**, and **randomized simulation**.
@@ -9,7 +9,7 @@ The exercises were implemented in Jupyter Notebook format for clarity and struct
 
 ## Contents
 
-### Exercise 1–3: Searching and Sorting  
+### Exercise 1-3: Searching and Sorting  
 - Linear and Binary Search on lists of numbers and tuples.  
 - Custom sorting using `key` functions.  
 - Randomized dataset generation using `random`.  
@@ -19,12 +19,12 @@ The exercises were implemented in Jupyter Notebook format for clarity and struct
 - Randomized generation of shopping lists.  
 - Price calculation using dictionaries.  
 
-### Exercise 5–7: Classes and Algorithms  
+### Exercise 5-7: Classes and Algorithms  
 - Partitioning numeric intervals using uniform spacing.  
 - Simulation of dice rolls with dictionary mappings.  
 - String and list processing (word formation with given letters).  
 
-### Exercise 8–9: Dictionary and Search Applications  
+### Exercise 8-9: Dictionary and Search Applications  
 - Transformation of nested dictionaries (artworks by year).  
 - Sorting and searching elements using mappings and search functions.  
 
