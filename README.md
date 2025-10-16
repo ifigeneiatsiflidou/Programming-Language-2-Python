@@ -1,9 +1,7 @@
 # Programming Language II - Final Exam Exercises
 
 This repository contains a collection of final exam exercises for the **Programming Language II** course.  
-Each exercise focuses on core Python programming concepts such as **object-oriented design**, **data structures**, **searching and sorting**, and **randomized simulation**.
-
-The exercises were implemented in Jupyter Notebook format for clarity and structured documentation.
+Each exercise focuses on Python programming concepts such as **object-oriented design**, **data structures**, **searching and sorting** and **randomized simulation**.
 
 
 
